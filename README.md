@@ -1,13 +1,9 @@
-## Hi there 👋
-
 <!-->
-**moal2704/moal2704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hejsan 👋 </h1>
 
-Here are some ideas to get you started:
+<h2 align="center">Mohammed R. heter jag </h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently le<h1 align="center">Hejsan 👋, Mohammed R. heter jag</h1>
-<h3 align="center">Jag gillar att lära mig nya saker som utvecklar mina kunskaper såsom webbutveckling</h3>
+  <h3 align="center">Jag gillar att lära mig nya saker som utvecklar mina kunskaper såsom webbutveckling</h3>
 <img align="right" alt="Coding" width="400" src="https://unsplash.com/photos/turned-on-macbook-pro-YSkuPlvE4nc">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moal2704&label=Profile%20views&color=0e75b6&style=flat" alt="moal2704" /> </p>
