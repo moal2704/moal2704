@@ -4,7 +4,9 @@
 <h2 align="center">Mohammed R. heter jag </h2>
 
   <h3 align="center">Jag gillar att lära mig nya saker som utvecklar mina kunskaper såsom webbutveckling</h3>
-<img align="right" alt="Coding" width="400" src="https://unsplash.com/photos/turned-on-macbook-pro-YSkuPlvE4nc">
+<img align="center" alt="Coding" width="400" src="https://www.careerguide.com/career/wp-content/uploads/2021/01/coding_gif.gif"> 
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moal2704&label=Profile%20views&color=0e75b6&style=flat" alt="moal2704" /> </p>
 
